@@ -55,13 +55,11 @@ Claude API (Anthropic)
 
 ⚙️ Setup
 1. Clone the repo
-git clone https://github.com/your-username/notion-marketing-os.git
 cd notion-marketing-os
 2. Install dependencies
 npm install
 3. Configure environment variables
 Create a .env file:
-
 NOTION_API_KEY=your_notion_api_key
 NOTION_DATABASE_ID=ideas_db_id
 NOTION_CONTENT_DB_ID=content_db_id
